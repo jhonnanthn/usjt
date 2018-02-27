@@ -3,6 +3,7 @@ package entity;
 public class Fila {
 	private int id;
 	private String nome;
+	private String teste;
 	
 	public Fila(int id, String nome) {
 		super();
